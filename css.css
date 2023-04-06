@@ -1,0 +1,80 @@
+.image {
+    float: right;
+    text-align: center;
+    width: 15%;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#image {
+    float: left;
+    padding-right: 0px;
+    background-color: rgb(64, 46, 230);
+}
+
+.advan {
+    float: right;
+    text-align: center;
+    width: 15%;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#advan {
+    float: left;
+    padding-right: 0px;
+    background-color:rgb(64, 46, 230);
+}
+
+.hgoogle {
+    text-align: center;
+    padding-top: 20;
+    font-size: 50px;
+}
+
+.sea {
+    float: right;
+    text-align: center;
+    width: 20%;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#sea {
+    float: left;
+    padding-right: 0px;
+    background-color: rgb(64, 46, 230);
+}
+
+.gsearch {
+    display: flex;
+    padding-top: 0px;
+    justify-content: center;
+}
+
+input {
+    width: 40%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+input:hover {
+        border-style: 1px solid;
+        border-color: silver;
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    padding: 10px;
+    border-color: blue;
+    border-radius: 10px;
+}
+
+button:hover {
+        background-color: blue;
+        color: white;
+}
